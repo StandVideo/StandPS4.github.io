@@ -1,0 +1,6 @@
+[submodule "libjbc"]
+	path = libjbc
+	url = https://github.com/standvideo/ps4-libjbc
+[submodule "sdk"]
+	path = sdk
+	url = https://github.com/standvideo/ps4jb-payloads
